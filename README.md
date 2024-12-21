@@ -21,7 +21,7 @@ Vigilant IR is a Python-based automated incident detection and response system d
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/vigilant-ir.git
+   git clone https://github.com/samarthbc/vigilant-ir.git
    ```
 2. Navigate to the project directory:
    ```bash
